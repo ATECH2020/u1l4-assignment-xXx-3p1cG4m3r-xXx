@@ -18,7 +18,7 @@ class StudentDesks {
 				if (g3 % 2 == 1)
 					totalDesks++;
 
-				System.out.println(totalDesks);
+				System.out.print(totalDesks);
 
 
         // closing the scanner object

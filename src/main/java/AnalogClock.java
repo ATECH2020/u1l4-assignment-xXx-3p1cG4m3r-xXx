@@ -10,7 +10,7 @@ class AnalogClock {
         int theta = scanner.nextInt();
 
 				int minuteHandTurned = (theta % 30) * 12;
-				System.out.println(minuteHandTurned);
+				System.out.print(minuteHandTurned);
 
         // closing the scanner object
         scanner.close();
